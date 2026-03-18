@@ -1,7 +1,6 @@
 ## ПЗ №6
 
 Прогресс на сайте stepik:
-
 \
 https://github.com/eisjr/study-test-rep/blob/main/pz6\_progress.png
 \
