@@ -8,7 +8,7 @@ https://github.com/eisjr/study-test-rep/blob/main/pz6\_progress.png
 
 \--------
 
-1\.Перевод времени - ![]https://github.com/eisjr/study-test-rep/blob/main/pz6\_Block\_1.png
+1\.Перевод времени - ![](https://github.com/eisjr/study-test-rep/blob/main/pz6\_Block\_1.png)
 
 2.Сравнение чисел - https://github.com/eisjr/study-test-rep/blob/main/pz6\_Block\_2.png
 
