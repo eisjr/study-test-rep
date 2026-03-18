@@ -1,13 +1,10 @@
 ## ПЗ №6
 
 Прогресс на сайте stepik:
-
-!\[](https://github.com/eisjr/study-test-rep/blob/main/pz7\\\_progress.png)
-
+![](https://github.com/eisjr/study-test-rep/blob/main/pz7_progress.png)
 
 
 ### ТЗ:
-
 
 
 ##### 1\.Перевод времени
