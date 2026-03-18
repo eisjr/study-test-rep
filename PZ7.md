@@ -1,4 +1,4 @@
-## ПЗ №6
+## ПЗ №7
 
 Прогресс на сайте stepik:
 ![](https://github.com/eisjr/study-test-rep/blob/main/pz7_progress.png)
