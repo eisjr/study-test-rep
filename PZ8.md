@@ -1,5 +1,5 @@
 # ПЗ №8
-
+#### прогресс на сайте stepik
 ![](https://github.com/eisjr/study-test-rep/blob/main/pz8_materials/pz8_progress.png)
 
 ## Код для заданий.
