@@ -2,7 +2,7 @@
 
 Прогресс на сайте stepik:
 
-
+![](https://github.com/eisjr/study-test-rep/blob/main/Materials/PZ6-Progress.png)
 
 
 ### ТЗ:
